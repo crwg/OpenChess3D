@@ -6,7 +6,7 @@
 
 **The best free 3D chess game** – play against a powerful AI (powered by [Lozza](https://github.com/op12no2/lozza)), analyze with PGN support, and enjoy a beautiful 3D board. Completely free and open source.
 
-![OpenChess3D Screenshot](link-to-your-screenshot.png) <!-- Replace with actual screenshot URL -->
+![OpenChess3D Screenshot](#) <!-- Soon -->
 
 ---
 
