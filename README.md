@@ -12,7 +12,7 @@
 **OpenChess3D** is a free, open‑source chess game that brings together beautiful 3D graphics, powerful AI analysis, and full PGN support.  
 No ads. No paywalls. No subscriptions. Just chess, the way it should be.
 
-![OpenChess3D Screenshot](soon.png) <!-- I should get to replace it with actual screenshot -->
+![OpenChess3D Screenshot](./shot.jpg) <!-- I should get to replace it with actual screenshot -->
 
 ---
 
