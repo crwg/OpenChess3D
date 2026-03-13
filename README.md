@@ -2,9 +2,9 @@
 ## «Do subscribe. Missing out would be... regrettable.»
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourusername/OpenChess3D/actions)
-[![Release Date](https://img.shields.io/badge/Release%20Date-End%20of%20March%202025-blueviolet)](https://github.com/yourusername/OpenChess3D/releases)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yourusername/OpenChess3D/pulls)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/crwg/OpenChess3D/actions)
+[![Release Date](https://img.shields.io/badge/Release%20Date-End%20of%20March%202025-blueviolet)](https://github.com/crwg/OpenChess3D/releases)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/crwg/OpenChess3D/pulls)
 
 > 🚧 **Work in progress** – Our first stable release is scheduled for **late March 2025**.  
 > We're building something special for the chess community – and it will always be free.
@@ -34,11 +34,11 @@ No ads. No paywalls. No subscriptions. Just chess, the way it should be.
 ## 🚀 Getting Started
 
 ### Download
-Once released, you can grab the latest version from the [Releases page](https://github.com/yourusername/OpenChess3D/releases).  
+Once released, you can grab the latest version from the [Releases page](https://github.com/crwg/OpenChess3D/releases).  
 We provide binaries for Windows, macOS, and Linux.
 
 ### Build from Source
 ```bash
-git clone https://github.com/yourusername/OpenChess3D.git
+git clone https://github.com/crwg/OpenChess3D.git
 cd OpenChess3D
 # Follow the build instructions for your platform (see BUILD.md)
