@@ -41,4 +41,4 @@ We provide binaries for Windows, macOS, and Linux.
 ```bash
 git clone https://github.com/crwg/OpenChess3D.git
 cd OpenChess3D
-# Follow the build instructions for your platform (see BUILD.md)
+# Follow the build instructions for your platform (see BUILD.md - soon, sry)
