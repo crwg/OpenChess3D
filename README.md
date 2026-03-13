@@ -1,4 +1,5 @@
-# OpenChess3D ♟️ «Do subscribe. Missing out would be... regrettable.»
+# OpenChess3D ♟️
+## «Do subscribe. Missing out would be... regrettable.»
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourusername/OpenChess3D/actions)
