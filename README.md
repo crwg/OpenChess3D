@@ -1,8 +1,8 @@
 # OpenChess3D ♟️
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
-[![PayPal](https://img.shields.io/badge/Donate-PayPal-blue?style=flat&logo=paypal)](https://paypal.me/yourusername)
+[![Buy Me a Coffee](#)
+[![PayPal](#)
 
 **The best free 3D chess game** – play against a powerful AI (powered by [Lozza](https://github.com/op12no2/lozza)), analyze with PGN support, and enjoy a beautiful 3D board. Completely free and open source.
 
