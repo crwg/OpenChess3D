@@ -3,7 +3,6 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/crwg/OpenChess3D/actions)
-[![Release Date](https://img.shields.io/badge/Release%Soon%%202025-blueviolet)](https://github.com/crwg/OpenChess3D/releases)
 
 > 🚧 **Work in progress** – Our first stable release is soon.  
 > We're building something special for the chess community – and it will always be free.
