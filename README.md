@@ -5,7 +5,7 @@
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/crwg/OpenChess3D/actions)
 [![Release Date](https://img.shields.io/badge/Release%20Date-End%20of%20March%202025-blueviolet)](https://github.com/crwg/OpenChess3D/releases)
 
-> 🚧 **Work in progress** – Our first stable release is scheduled for **late March 2025**.  
+> 🚧 **Work in progress** – Our first stable release is soon.  
 > We're building something special for the chess community – and it will always be free.
 
 **OpenChess3D** is a free, open‑source chess game that brings together beautiful 3D graphics, powerful AI analysis, and full PGN support.  
